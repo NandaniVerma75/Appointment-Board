@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Team Sync",
+    "description": "Weekly sync with the engineering team",
+    "date": "2024-05-20",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "2",
+    "title": "Project Kickoff",
+    "description": "Kickoff meeting for the new app",
+    "date": "2024-05-20",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "status": "completed"
+  },
+  {
+    "id": "3",
+    "title": "Client Call",
+    "description": "Discussing requirements with Acme Corp",
+    "date": "2024-05-21",
+    "startTime": "11:00",
+    "endTime": "11:45",
+    "status": "cancelled"
+  },
+  {
+    "id": "8da3d5df-b2e7-415c-814d-dfa03c884c5d",
+    "title": "abc",
+    "description": "adfadfad",
+    "date": "2026-09-11",
+    "startTime": "08:00",
+    "endTime": "10:00",
+    "status": "scheduled"
+  }
+]
